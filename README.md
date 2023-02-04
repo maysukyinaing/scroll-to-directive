@@ -1,5 +1,8 @@
 # ScrollToDirective
 
+
+[![Read Time Directive](ss/scroll-to.png)](https://github.com/maysukyinaing/scroll-to-directive/blob/master/ss/scroll-to.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.5.
 
 ## Development server
